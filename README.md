@@ -80,6 +80,7 @@ _**2.1. Requisitos Funcionais**_
 |RF12|o sistema deve contar com uma aba especifica para suporte caso haja um erro no sistema|
 |RF14|o sistema deve notificar os usuários em situações especificas|
 |RF15|o sistema deve contar com um backup diário em caso de imprevistos|
+
 _**2.2. Requisitos Não Funcionais**_
 
 _<Link, imagem, arquivo com os requisitos não funcionais.>_
