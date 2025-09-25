@@ -42,9 +42,9 @@ _<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). 
 _**Personas:**_
 
 _<Imagem, arquivo (PDF), link com as Personas.>_
-# Persona 1 - ColabUTFPR
+# Persona 1 
 
-|      | |
+|**Campo**|**Descrição**|
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**              | Mariana Silva |
 | **Idade**             | 18 anos |
@@ -52,6 +52,7 @@ _<Imagem, arquivo (PDF), link com as Personas.>_
 | **O que motiva?**     | - Entender rapidamente como funciona a faculdade e obter dicas práticas (professores, matérias, bibliografia). <br><br> - Encontrar colegas para formar grupo de estudo. <br><br>- Ganhar visibilidade e confiança ao ajudar com dúvidas simples e receber reconhecimento (pontos/insígnias). <br><br> - Confiabilidade: prefere ambientes seguros e moderados, onde não terá “trolls”. |
 | **Dificuldades**      | - Sentir timidez para perguntar em sala ou presencialmente. <br><br> - Não saber onde achar materiais confiáveis ou quem procurar para dúvidas específicas. <br><br> - Falta de experiência com ferramentas acadêmicas online (Moodle, SIGAA etc.). <br><br> - Medo de ser julgada por perguntas consideradas “básicas”. |
 | **Relação com TICs**  | - Usa smartphone diariamente (Instagram, WhatsApp, YouTube). <br><br> - Tem habilidades digitais básicas a intermediárias: sabe pesquisar, usar apps e redes sociais, mas se perde em plataformas acadêmicas mais formais. <br><br> - Prefere interfaces simples e com suporte (tutoriais, FAQs). <br><br> - A gamificação (pontuação/insígnias) funciona bem para motivá-la a participar, desde que o sistema seja claro e seguro. |
+
 
 _**Análise da situação atual: antes da introdução de sua solução**_
 
