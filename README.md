@@ -53,6 +53,18 @@ _<Imagem, arquivo (PDF), link com as Personas.>_
 | **Dificuldades**      | - Sentir timidez para perguntar em sala ou presencialmente. <br><br> - Não saber onde achar materiais confiáveis ou quem procurar para dúvidas específicas. <br><br> - Falta de experiência com ferramentas acadêmicas online (Moodle, SIGAA etc.). <br><br> - Medo de ser julgada por perguntas consideradas “básicas”. |
 | **Relação com TICs**  | - Usa smartphone diariamente (Instagram, WhatsApp, YouTube). <br><br> - Tem habilidades digitais básicas a intermediárias: sabe pesquisar, usar apps e redes sociais, mas se perde em plataformas acadêmicas mais formais. <br><br> - Prefere interfaces simples e com suporte (tutoriais, FAQs). <br><br> - A gamificação (pontuação/insígnias) funciona bem para motivá-la a participar, desde que o sistema seja claro e seguro. |
 
+# Persona 2
+
+| **Campo**             | **Descrição** |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**              | Lucas Andrade |
+| **Idade**             | 24 anos |
+| **História**          | Lucas é aluno do 4º semestre, trabalha parte do tempo como estagiário em uma empresa de TI e já participou de monitorias na faculdade. É extrovertido, gosta de ajudar os colegas e tem experiência em desenvolver pequenos projetos. Tem muitos livros e periféricos que pretende vender/trocar entre colegas para ganhar uma renda extra. |
+| **O que motiva?**     | - Construir reputação acadêmica e networking (ser reconhecido como alguém que ajuda). <br><br> - Trocar ou vender material didático usado de forma prática e confiável. <br><br> - Aumentar seu score/gamificação para obter privilégios (ex.: destaque no ranking, acesso a canais exclusivos). <br><br> - Encontrar comunidades temáticas (IA, programação, jogos) para trocar conhecimento avançado. |
+| **Dificuldades**      | - Pouco tempo livre: precisa de interações rápidas e eficientes. <br><br> - Desconfiança quanto à segurança em transações entre alunos (pagamentos, trocas presenciais). <br><br> - Moderar o próprio tempo para não gastar demais em fóruns sem objetivo. <br><br> - Lidar com conteúdo repetitivo (perguntas básicas que já respondeu várias vezes). |
+| **Relação com TICs**  | - Muito confortável: usa laptop e smartphone; domina GitHub, Discord, Telegram e ferramentas de escritório. <br><br> - Alto nível de autossuficiência tecnológica (consegue testar funcionalidades, reportar bugs e propor melhorias). <br><br> - Gosta de integrações (login único via conta da universidade, notificações por push) e prefere recursos avançados (filtros por tags, comunidades fechadas, sistema de reputação transparente). <br><br> - Valoriza um marketplace integrado, com avaliações e mediação pela comunidade/administradores. |
+
+
 
 _**Análise da situação atual: antes da introdução de sua solução**_
 
