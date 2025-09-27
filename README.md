@@ -54,7 +54,7 @@ _<Imagem, arquivo (PDF), link com as Personas.>_
 | **Dificuldades**      | - Sentir timidez para perguntar em sala ou presencialmente. <br><br> - Não saber onde achar materiais confiáveis ou quem procurar para dúvidas específicas. <br><br> - Falta de experiência com ferramentas acadêmicas online (Moodle, SIGAA etc.). <br><br> - Medo de ser julgada por perguntas consideradas “básicas”. |
 | **Relação com TICs**  | - Usa smartphone diariamente (Instagram, WhatsApp, YouTube). <br><br> - Tem habilidades digitais básicas a intermediárias: sabe pesquisar, usar apps e redes sociais, mas se perde em plataformas acadêmicas mais formais. <br><br> - Prefere interfaces simples e com suporte (tutoriais, FAQs). <br><br> - A gamificação (pontuação/insígnias) funciona bem para motivá-la a participar, desde que o sistema seja claro e seguro. |
 
-![foto da persona: Mariana, imagem retirada do google](https://br.freepik.com/fotos-gratis/foto-na-cabeca-de-uma-bela-mulher-mestica-encaracolada-com-um-sorriso-e-um-sueter-listrado_9880909.htm#fromView=keyword&page=1&position=3&uuid=ca98d32c-29e4-423c-9625-28661b4d77f9&query=Pessoa+rosto)
+![foto da persona: Mariana, imagem gerada pela Meta IA](https://drive.google.com/file/d/19ADvT8cVgNNQqc9zWFTyipkkKik3Ar7M/view?usp=drive_link)
 
 # Persona 2
 
@@ -67,7 +67,7 @@ _<Imagem, arquivo (PDF), link com as Personas.>_
 | **Dificuldades**      | - Pouco tempo livre: precisa de interações rápidas e eficientes. <br><br> - Desconfiança quanto à segurança em transações entre alunos (pagamentos, trocas presenciais). <br><br> - Moderar o próprio tempo para não gastar demais em fóruns sem objetivo. <br><br> - Lidar com conteúdo repetitivo (perguntas básicas que já respondeu várias vezes). |
 | **Relação com TICs**  | - Muito confortável: usa laptop e smartphone; domina GitHub, Discord, Telegram e ferramentas de escritório. <br><br> - Alto nível de autossuficiência tecnológica (consegue testar funcionalidades, reportar bugs e propor melhorias). <br><br> - Gosta de integrações (login único via conta da universidade, notificações por push) e prefere recursos avançados (filtros por tags, comunidades fechadas, sistema de reputação transparente). <br><br> - Valoriza um marketplace integrado, com avaliações e mediação pela comunidade/administradores. |
 
-![foto da persona: Lucas, imagem retirada do google](https://br.freepik.com/fotos-gratis/retrato-de-homem-branco-isolado_3199590.htm#fromView=keyword&page=1&position=0&uuid=ca98d32c-29e4-423c-9625-28661b4d77f9&query=Pessoa+rosto)
+![foto da persona: Lucas, imagem gerada pela Meta IA](https://drive.google.com/file/d/1C7mKB-b_2pxmU1AeiD02wp8_SiJG5dKV/view?usp=drive_link)
 
 _**Análise da situação atual: antes da introdução de sua solução**_
 
