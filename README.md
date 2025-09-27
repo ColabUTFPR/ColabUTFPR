@@ -1,3 +1,4 @@
+
 ## Projeto Disciplina: Requisitos de Software
 
 [](https://github.com/ColabUTFPR/ColabUTFPR/blob/main/README.md#projeto-disciplina-requisitos-de-software)
@@ -106,7 +107,18 @@ _**2.1. Requisitos Funcionais**_
 
 _**2.2. Requisitos Não Funcionais**_
 
-_<Link, imagem, arquivo com os requisitos não funcionais.>_
+|identificador|descrição|
+|--|--|
+|RNF1|o sistema deve ser compatível com IOS, android e web|
+|RNF2|notificações devem ser enviadas até no máximo 5 segundos|
+|RNF3|o sistema deve ter proteções contra as principais falhas de segurança em partes criticas, como banco de dados e login de admin (XSS, SQL Injection, CSRF, DDoS, etc...)|
+|RNF4|o sistema deve ser feito seguindo as regras da programação orientada a objetos de modo a facilitar a manutenção, além de testes controlados com usuários betatesters permitindo que os mesmos abram feedbacks de versões mais recentes|
+|RNF5|o sistema deve fazer um backup por hora, garantindo que caso haja um imprevisto, seja possivel restaurar o sistema para sua versão mais recente e mais estável|
+|RNF6|o sistema deve ter uma disponibilidade de no minimo 99% do tempo|
+|RNF7|o sistema deve ter um tempo de resposta preciso, de no máximo 3 segundos|
+|RNF8|o sistema deve conter uma aba de suporte para cada pagina do aplicativo|
+|RNF9|o executável deve ter um espaço de no máximo 300mb|
+|RNF10|o sistema deve garantir estabilidade com no mínimo 8000 usuários simultâneos|
 
 _**2.3. Perguntas**_
 
