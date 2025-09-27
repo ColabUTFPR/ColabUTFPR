@@ -14,8 +14,11 @@ Link do Padlet:  [https://padlet.com/gustavo2006/my-luminous-padlet-6f60ibwd1sbe
 _**1.1. ColabUTFPR**_
 
 [Gustavo Henrique de Almeida](https://github.com/guhenrih)
+
 [Thiago Dutra da Silva](https://github.com/SimonR556)  
+
 [Eduardo Aguiar](https://github.com/duduaguiaarr-source)
+
 [Nathan Victor de Oliveira Costa](https://github.com/NathanVictorOC)
 
 _**1.2. Nome do Sistema**_
