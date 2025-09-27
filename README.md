@@ -91,22 +91,22 @@ _**2.1. Requisitos Funcionais**_
 
 |identificador|descrição|prioridade|dependência
 |--|--|--|--|
-|RF1|Cadastro deve permitir ao usuário o login via e-mail institucional e suporte para recuperação de senha|
-|RF2|o sistema deve possuir uma verificação de e-mail|
-|RF3|o sistema deve permitir que o usuário crie publicações na aba fórum, escolhendo um fórum em especifico|
-|RF4|o sistema deve permitir a anexação de imagens ou documentos|
-|RF5|o sistema deve permitir comentários dos usuários e reações em tópicos e/ou pubicações|
-|RF6|o sistema deve permitir a busca por outros usuários ou publicações com base em datas, categoria ou usuário|
-|RF7|o sistema deve permitir a comunicação entre usuários por mensagens privadas com histórico de conversa, opções de bloqueio e denúncia de usuário|
-|RF8|o sistema deve permitir a edição do perfil do usuário(como foto de perfil por exemplo)|
-|RF9|o sistema deve ter uma aba para configurações de usuário, permitindo alterações|
-|RF10|o sistema deverá ter um nível de ranking para medir a confiança nos usuários e seus posts com base em tempo de conta e reputação|
-|RF11|o sistema deve permitir a denuncia de um post ou mensagens por outros usuários, caso haja um descumprimento das normas da comunidade|
-|RF12|o sistema deve possibilitar a exclusão de mensagens, contas ou publicações, se necessário, por usuários moderadores/admins|
-|RF13|o sistema deve categorizar as publicações por comunidades e assuntos|
-|RF14|o sistema deve conter uma aba de suporte para cada pagina do aplicativo|
-|RF15|o sistema deve notificar os usuários em situações especificas|
-|RF16|a pagina de suporte do aplicativo deve conter uma aba para comentários envio de arquivos como prints ou logs e uma classificação de urgência dada pelo usuário |
+|RF1|Cadastro deve permitir ao usuário o login via e-mail institucional e suporte para recuperação de senha|alta|sem dependências|
+|RF2|o sistema deve possuir uma verificação de e-mail|alta|RF1|
+|RF3|o sistema deve permitir que o usuário crie publicações na aba fórum, escolhendo um fórum em especifico|alta|RF1, RF2|
+|RF4|o sistema deve permitir a anexação de imagens ou documentos em publicações e comendatários|média|RF3|
+|RF5|o sistema deve permitir comentários dos usuários e reações em tópicos e/ou pubicações|alta|RF3|
+|RF6|o sistema deve permitir a busca por outros usuários ou publicações com base em datas, categoria ou usuário|média|RF3, RF5|
+|RF7|o sistema deve permitir a comunicação entre usuários por mensagens privadas com histórico de conversa, opções de bloqueio e denúncia de usuário|alta|RF1|
+|RF8|o sistema deve permitir a edição do perfil do usuário(como foto de perfil por exemplo)|média|RF1|
+|RF9|o sistema deve ter uma aba para configurações de usuário, permitindo alterações|média|RF1|
+|RF10|o sistema deverá ter um nível de ranking para medir a confiança nos usuários e seus posts com base em tempo de conta e reputação|média|RF3,RF5|
+|RF11|o sistema deve permitir a denuncia de um post ou mensagens por outros usuários, caso haja um descumprimento das normas da comunidade|alta|RF3,RF5,RF7|
+|RF12|o sistema deve possibilitar a exclusão de mensagens, contas ou publicações, se necessário, por usuários moderadores/admins|alta|RF1,RF3,RF7|
+|RF13|o sistema deve categorizar as publicações por comunidades e assuntos|alta|RF3|
+|RF14|o sistema deve conter uma aba de suporte para cada pagina do aplicativo|média|sem dependências|
+|RF15|o sistema deve notificar os usuários em situações especificas|baixa|RF1|
+|RF16|a pagina de suporte do aplicativo deve conter uma aba para comentários envio de arquivos como prints ou logs e uma classificação de urgência dada pelo usuário |baixa|RF14|
 
 
 
