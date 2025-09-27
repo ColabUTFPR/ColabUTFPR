@@ -15,7 +15,7 @@ _**1.1. ColabUTFPR**_
 
 Gustavo Henrique de Almeida -  [https://github.com/guhenrih](https://github.com/guhenrih)  
 
-Thiago Dutra da Silva -  [https://github.com/SimonR556](https://github.com/SimonR556)  
+Thiago Dutra da Silva -  https://github.com/SimonR556  
 
 Eduardo Aguiar -  [https://github.com/duduaguiaarr-source](https://github.com/duduaguiaarr-source)  
 
