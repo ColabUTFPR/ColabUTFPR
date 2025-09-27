@@ -54,6 +54,8 @@ _<Imagem, arquivo (PDF), link com as Personas.>_
 | **Dificuldades**      | - Sentir timidez para perguntar em sala ou presencialmente. <br><br> - Não saber onde achar materiais confiáveis ou quem procurar para dúvidas específicas. <br><br> - Falta de experiência com ferramentas acadêmicas online (Moodle, SIGAA etc.). <br><br> - Medo de ser julgada por perguntas consideradas “básicas”. |
 | **Relação com TICs**  | - Usa smartphone diariamente (Instagram, WhatsApp, YouTube). <br><br> - Tem habilidades digitais básicas a intermediárias: sabe pesquisar, usar apps e redes sociais, mas se perde em plataformas acadêmicas mais formais. <br><br> - Prefere interfaces simples e com suporte (tutoriais, FAQs). <br><br> - A gamificação (pontuação/insígnias) funciona bem para motivá-la a participar, desde que o sistema seja claro e seguro. |
 
+![foto da persona: Mariana, imagem retirada do google](https://br.freepik.com/fotos-gratis/foto-na-cabeca-de-uma-bela-mulher-mestica-encaracolada-com-um-sorriso-e-um-sueter-listrado_9880909.htm#fromView=keyword&page=1&position=3&uuid=ca98d32c-29e4-423c-9625-28661b4d77f9&query=Pessoa+rosto)
+
 # Persona 2
 
 | **Campo**             | **Descrição** |
@@ -65,7 +67,7 @@ _<Imagem, arquivo (PDF), link com as Personas.>_
 | **Dificuldades**      | - Pouco tempo livre: precisa de interações rápidas e eficientes. <br><br> - Desconfiança quanto à segurança em transações entre alunos (pagamentos, trocas presenciais). <br><br> - Moderar o próprio tempo para não gastar demais em fóruns sem objetivo. <br><br> - Lidar com conteúdo repetitivo (perguntas básicas que já respondeu várias vezes). |
 | **Relação com TICs**  | - Muito confortável: usa laptop e smartphone; domina GitHub, Discord, Telegram e ferramentas de escritório. <br><br> - Alto nível de autossuficiência tecnológica (consegue testar funcionalidades, reportar bugs e propor melhorias). <br><br> - Gosta de integrações (login único via conta da universidade, notificações por push) e prefere recursos avançados (filtros por tags, comunidades fechadas, sistema de reputação transparente). <br><br> - Valoriza um marketplace integrado, com avaliações e mediação pela comunidade/administradores. |
 
-
+![foto da persona: Lucas, imagem retirada do google](https://br.freepik.com/fotos-gratis/retrato-de-homem-branco-isolado_3199590.htm#fromView=keyword&page=1&position=0&uuid=ca98d32c-29e4-423c-9625-28661b4d77f9&query=Pessoa+rosto)
 
 _**Análise da situação atual: antes da introdução de sua solução**_
 
@@ -89,36 +91,44 @@ _<Preencher com o cenário idealizado depois da aplicação do seu sistema.>_
 
 _**2.1. Requisitos Funcionais**_
 
-|identficador|descrição|
-|--|--|
-|RF1|Cadastro deve permitir o login via e-mail institucional|
-|RF2|o sistema deve permitir a criação de publicações na aba fórum|
-|RF3|o sistema deve permitir comentários e reações em tópicos e/ou pubicações|
-|RF4|o sistema deve permitir a busca por outros usuários ou publicações|
-|RF5|o sistema deve permitir a comunicação entre usuários por mensagens privadas|
-|RF6|o sistema deve permitir a edição do perfil do usuário(como foto de perfil por exemplo)|
-|RF7|o sistema deve ter uma aba para configurações de usuário, permitindo alterações|
-|RF8|o sistema deverá ter um nível de ranking para medir a confiança nos usuários e seus posts|
-|RF9|o sistema deve possibilitar a exclusão de mensagens por usuários moderadores/admins|
-|RF11|o sistema deve categorizar as publicações por comunidades e assuntos|
-|RF12|o sistema deve contar com uma aba especifica para suporte caso haja um erro no sistema|
-|RF14|o sistema deve notificar os usuários em situações especificas|
-|RF15|o sistema deve contar com um backup diário em caso de imprevistos|
+|identificador|descrição|prioridade|dependência
+|--|--|--|--|
+|RF1|Cadastro deve permitir ao usuário o login via e-mail institucional e suporte para recuperação de senha|
+|RF2|o sistema deve possuir uma verificação de e-mail|
+|RF3|o sistema deve permitir que o usuário crie publicações na aba fórum, escolhendo um fórum em especifico|
+|RF4|o sistema deve permitir a anexação de imagens ou documentos|
+|RF5|o sistema deve permitir comentários dos usuários e reações em tópicos e/ou pubicações|
+|RF6|o sistema deve permitir a busca por outros usuários ou publicações com base em datas, categoria ou usuário|
+|RF7|o sistema deve permitir a comunicação entre usuários por mensagens privadas com histórico de conversa, opções de bloqueio e denúncia de usuário|
+|RF8|o sistema deve permitir a edição do perfil do usuário(como foto de perfil por exemplo)|
+|RF9|o sistema deve ter uma aba para configurações de usuário, permitindo alterações|
+|RF10|o sistema deverá ter um nível de ranking para medir a confiança nos usuários e seus posts com base em tempo de conta e reputação|
+|RF11|o sistema deve permitir a denuncia de um post ou mensagens por outros usuários, caso haja um descumprimento das normas da comunidade|
+|RF12|o sistema deve possibilitar a exclusão de mensagens, contas ou publicações, se necessário, por usuários moderadores/admins|
+|RF13|o sistema deve categorizar as publicações por comunidades e assuntos|
+|RF14|o sistema deve conter uma aba de suporte para cada pagina do aplicativo|
+|RF15|o sistema deve notificar os usuários em situações especificas|
+|RF16|a pagina de suporte do aplicativo deve conter uma aba para comentários envio de arquivos como prints ou logs e uma classificação de urgência dada pelo usuário |
+
+
 
 _**2.2. Requisitos Não Funcionais**_
 
-|identificador|descrição|
-|--|--|
+|identificador|descrição|categoria|prioridade
+|--|--|--|--|
 |RNF1|o sistema deve ser compatível com IOS, android e web|
-|RNF2|notificações devem ser enviadas até no máximo 5 segundos|
-|RNF3|o sistema deve ter proteções contra as principais falhas de segurança em partes criticas, como banco de dados e login de admin (XSS, SQL Injection, CSRF, DDoS, etc...)|
-|RNF4|o sistema deve ser feito seguindo as regras da programação orientada a objetos de modo a facilitar a manutenção, além de testes controlados com usuários betatesters permitindo que os mesmos abram feedbacks de versões mais recentes|
-|RNF5|o sistema deve fazer um backup por hora, garantindo que caso haja um imprevisto, seja possivel restaurar o sistema para sua versão mais recente e mais estável|
-|RNF6|o sistema deve ter uma disponibilidade de no minimo 99% do tempo|
+|RNF2|notificações com latência de até 5 segundos|
+|RNF3|o sistema deve ter proteções contra as principais falhas de segurança em partes criticas, como banco de dados e login de admin (XSS, SQL Injection, CSRF, DDoS, etc...) além de usar criptografia de ponta como HTTPS com TLS 1.2+|
+|RNF4|o sistema deve ser feito seguindo as práticas da programação orientada a objetos de modo a facilitar a manutenção, além de testes controlados com usuários betatesters permitindo que os mesmos abram feedbacks de versões mais recentes|
+|RNF5|o sistema deve fazer um backup por hora, garantindo que caso haja um imprevisto, seja possível restaurar o sistema para sua versão mais recente e mais estável|
+|RNF6|o sistema deve ter uma disponibilidade de no minimo 99,5% do tempo|
 |RNF7|o sistema deve ter um tempo de resposta preciso, de no máximo 3 segundos|
-|RNF8|o sistema deve conter uma aba de suporte para cada pagina do aplicativo|
-|RNF9|o executável deve ter um espaço de no máximo 300mb|
-|RNF10|o sistema deve garantir estabilidade com no mínimo 8000 usuários simultâneos|
+|RNF8|o executável em sistemas mobile(APK/IPA) deve ter um espaço de no máximo 300mb|
+|RNF9|o sistema deve garantir estabilidade com no mínimo 8000 usuários simultâneos sem perceptíveis perdas de desempenho|
+|RNF10|o sistema deve estar em alinhamento com a lei de proteção de dados pessoais dos usuários (LGPD)|
+|RNF11|o sistema deve ter configurações Customizáveis para acessibilidade segundo os padrões da WCAG|
+|RNF12|o sistema deve guardar os logs para registro dos eventos de no mínimo 365 dias e acesso apenas de roots|
+
 
 _**2.3. Perguntas**_
 
