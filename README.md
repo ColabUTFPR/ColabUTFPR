@@ -115,20 +115,20 @@ _**2.1. Requisitos Funcionais**_
 
 _**2.2. Requisitos Não Funcionais**_
 
-|identificador|descrição|categoria|prioridade
-|--|--|--|--|
-|RNF1|o sistema deve ser compatível com IOS, android e web|
-|RNF2|notificações com latência de até 5 segundos|
-|RNF3|o sistema deve ter proteções contra as principais falhas de segurança em partes criticas, como banco de dados e login de admin (XSS, SQL Injection, CSRF, DDoS, etc...) além de usar criptografia de ponta como HTTPS com TLS 1.2+|
-|RNF4|o sistema deve ser feito seguindo as práticas da programação orientada a objetos de modo a facilitar a manutenção, além de testes controlados com usuários betatesters permitindo que os mesmos abram feedbacks de versões mais recentes|
-|RNF5|o sistema deve fazer um backup por hora, garantindo que caso haja um imprevisto, seja possível restaurar o sistema para sua versão mais recente e mais estável|
-|RNF6|o sistema deve ter uma disponibilidade de no minimo 99,5% do tempo|
-|RNF7|o sistema deve ter um tempo de resposta preciso, de no máximo 3 segundos|
-|RNF8|o executável em sistemas mobile(APK/IPA) deve ter um espaço de no máximo 300mb|
-|RNF9|o sistema deve garantir estabilidade com no mínimo 8000 usuários simultâneos sem perceptíveis perdas de desempenho|
-|RNF10|o sistema deve estar em alinhamento com a lei de proteção de dados pessoais dos usuários (LGPD)|
-|RNF11|o sistema deve ter configurações Customizáveis para acessibilidade segundo os padrões da WCAG|
-|RNF12|o sistema deve guardar os logs para registro dos eventos de no mínimo 365 dias e acesso apenas de roots|
+|identificador|descrição|categoria|escopo|prioridade
+|--|--|--|--|--|
+|RNF1|o sistema deve ser compatível com IOS, android e web|portabilidade|sistema|alta|
+|RNF2|notificações com latência de até 5 segundos|eficiência|sistema|média|
+|RNF3|o sistema deve ter proteções contra as principais falhas de segurança em partes criticas, como banco de dados e login de admin (XSS, SQL Injection, CSRF, DDoS, etc...) além de usar criptografia de ponta como HTTPS com TLS 1.2+|segurança|sistema|alta|
+|RNF4|o sistema deve ser feito seguindo as práticas da programação orientada a objetos de modo a facilitar a manutenção, além de testes controlados com usuários betatesters permitindo que os mesmos abram feedbacks de versões mais recentes|manutenção/qualidade|sistema|média|
+|RNF5|o sistema deve fazer um backup por hora, garantindo que caso haja um imprevisto, seja possível restaurar o sistema para sua versão mais recente e mais estável|confiabilidade|sistema|alta|
+|RNF6|o sistema deve ter uma disponibilidade de no minimo 99,5% do tempo|confiabilidade|sistema|alta|
+|RNF7|o sistema deve ter um tempo de resposta preciso, de no máximo 3 segundos|eficiência|sistema|alta|
+|RNF8|o executável em sistemas mobile(APK/IPA) deve ter um espaço de no máximo 300mb|eficiência|sistema|baixa|
+|RNF9|o sistema deve garantir estabilidade com no mínimo 8000 usuários simultâneos sem perceptíveis perdas de desempenho|escalabilidade|sistema|média|
+|RNF10|o sistema deve estar em alinhamento com a lei de proteção de dados pessoais dos usuários (LGPD)|legalidade|sistema|alta|
+|RNF11|o sistema deve ter configurações Customizáveis para acessibilidade segundo os padrões da WCAG|acessibilidade|sistema|média|
+|RNF12|o sistema deve guardar os logs para registro dos eventos de no mínimo 365 dias e acesso apenas de roots|segurança|sistema|alta|
 
 
 _**2.3. Perguntas**_
