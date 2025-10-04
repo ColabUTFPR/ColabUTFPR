@@ -42,7 +42,6 @@ _<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). 
 
 _**Personas:**_
 
-_<Imagem, arquivo (PDF), link com as Personas.>_
 # Persona 1 
 
 |**Campo**|**Descrição**|
