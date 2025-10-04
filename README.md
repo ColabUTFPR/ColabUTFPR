@@ -92,12 +92,12 @@ _<Preencher com o cenário idealizado depois da aplicação do seu sistema.>_
 
 _**2.1. Requisitos Funcionais**_
 
-|identificador|descrição|prioridade|dependência
-|--|--|--|--|
-|RF1|Cadastro deve permitir ao usuário o login via e-mail institucional e suporte para recuperação de senha|alta|sem dependências|
-|RF2|o sistema deve possuir uma verificação de e-mail|alta|RF1|
-|RF3|o sistema deve permitir que o usuário crie publicações na aba fórum, escolhendo um fórum em especifico|alta|RF1, RF2|
-|RF4|o sistema deve permitir a anexação de imagens ou documentos em publicações e comendatários|média|RF3|
+|identificador|descrição|prioridade|dependência|
+|--|--|--|--|--|
+|RF1|Cadastro deve permitir ao usuário o login via e-mail institucional e suporte para recuperação de senha|alta|sem dependências|M|
+|RF2|o sistema deve possuir uma verificação de e-mail|alta|RF1|S|
+|RF3|o sistema deve permitir que o usuário crie publicações na aba fórum, escolhendo um fórum em especifico|alta|RF1, RF2|S|
+|RF4|o sistema deve permitir a anexação de imagens ou documentos em publicações e comendatários|média|RF3|C|
 |RF5|o sistema deve permitir comentários dos usuários e reações em tópicos e/ou pubicações|alta|RF3|
 |RF6|o sistema deve permitir a busca por outros usuários ou publicações com base em datas, categoria ou usuário|média|RF3, RF5|
 |RF7|o sistema deve permitir a comunicação entre usuários por mensagens privadas com histórico de conversa, opções de bloqueio e denúncia de usuário|alta|RF1|
