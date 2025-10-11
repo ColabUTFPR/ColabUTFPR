@@ -1,4 +1,5 @@
 
+
 ## Projeto Disciplina: Requisitos de Software
 
 [](https://github.com/ColabUTFPR/ColabUTFPR/blob/main/README.md#projeto-disciplina-requisitos-de-software)
@@ -105,20 +106,20 @@ _**2.1. Requisitos Funcionais**_
 |identificador|descrição|prioridade|dependência|MoSCoW
 |--|--|--|--|--|
 |RF1|Cadastro deve permitir ao usuário o login via e-mail institucional e suporte para recuperação de senha|alta|sem dependências|M|
-|RF2|o sistema deve possuir uma verificação de e-mail por confirmação, mandando um e-mail verificando se o e-mail pertece realmente ao usúario, após clicar em um link enviado para o e-mail fornecido, ele é confirmado e a criação de conta no aplicativo é vinculada as informações fornecidas|alta|RF1|S|
+|RF2|o sistema deve possuir uma verificação de e-mail por confirmação, mandando um e-mail verificando se o e-mail pertece realmente ao usúario, após clicar em um link enviado para o e-mail fornecido, ele é confirmado e a criação de conta no aplicativo é efetivada com as informações fornecidas|alta|RF1|S|
 |RF3|o sistema deve permitir que o usuário crie publicações na aba fórum, escolhendo um fórum em especifico|alta|RF1, RF2|S|
 |RF4|o sistema deve permitir a anexação de imagens ou documentos em publicações e comendatários|média|RF3|C|
 |RF5|o sistema deve permitir comentários dos usuários e reações em tópicos e/ou pubicações|alta|RF3|C|
 |RF6|o sistema deve permitir a busca por outros usuários ou publicações com base em datas, categoria ou usuário|média|RF3, RF5|C|
 |RF7|o sistema deve permitir a comunicação entre usuários por mensagens privadas com histórico de conversa, opções de bloqueio e denúncia de usuário|alta|RF1|C|
-|RF8|o sistema deve permitir a edição do perfil do usuário(como foto de perfil por exemplo)|média|RF1|S|
-|RF9|o sistema deve ter uma aba para configurações de usuário, permitindo alterações|média|RF1|M|
+|RF8|o sistema deve permitir a edição do perfil do usuário(como foto de perfil e bio por exemplo)|média|RF1|S|
+|RF9|o sistema deve ter uma aba para configurações de usuário, permitindo alterações de contraste, tema claro/escuro, uma aba para gerenciar contas bloqueadas, uma opção para excluir conta, uma aba de privacidade com configurações de quem pode mandar mensagens privadas e se sua conta pode ser exibida em pesquisas no aplicativo, além de uma opção para limpar seu histórico no aplicativo, uma aba com configurações de linguagem e uma para gerenciar as notificações enviadas, classificando com notificações de fóruns do qual o usuário faz parte, notificações de uma comunidade em que participa, e notificações de resposta a algum post, devendo dar a opção do usuário de ativar e desativar essas notificações (todas ou apenas uma das opções citadas anteriormente)|média|RF1|M|
 |RF10|o sistema deverá ter um nível de ranking para medir a confiança nos usuários e seus posts com base em tempo de conta e reputação|média|RF3,RF5|C|
 |RF11|o sistema deve permitir a denuncia de um post ou mensagens por outros usuários, caso haja um descumprimento das normas da comunidade|alta|RF3,RF5,RF7|M|
 |RF12|o sistema deve possibilitar a exclusão de mensagens, contas ou publicações, se necessário, por usuários moderadores/admins|alta|RF1,RF3,RF7|S|
 |RF13|o sistema deve categorizar as publicações por comunidades e assuntos|alta|RF3|C|
 |RF14|o sistema deve conter uma aba de suporte para cada pagina do aplicativo|média|sem dependências|C|
-|RF15|o sistema deve notificar os usuários em situações especificas|baixa|RF1|C|
+|RF15|o sistema deve notificar os usuários em situações especificas como quando um post novo é criado em uma comunidade em que o usuário faz parte, quando alguém citar o usuário em algum fórum do qual o usuário faz parte, quando algum post ou comentário criado pelo usuário é respondido |baixa|RF1|C|
 |RF16|a pagina de suporte do aplicativo deve conter uma aba para comentários envio de arquivos como prints ou logs e uma classificação de urgência dada pelo usuário |baixa|RF14|C|
 
 
@@ -132,7 +133,7 @@ _**2.2. Requisitos Não Funcionais**_
 |RNF3|o sistema deve ter proteções contra as principais falhas de segurança em partes criticas, como banco de dados e login de admin (XSS, SQL Injection, CSRF, DDoS, etc...) além de usar criptografia de ponta como HTTPS com TLS 1.2+|segurança|sistema|alta|S|
 |RNF4|o sistema deve ser feito seguindo as práticas da programação orientada a objetos de modo a facilitar a manutenção, além de testes controlados com usuários betatesters permitindo que os mesmos abram feedbacks de versões mais recentes|manutenção/qualidade|sistema|média|S|
 |RNF5|o sistema deve fazer um backup por hora, garantindo que caso haja um imprevisto, seja possível restaurar o sistema para sua versão mais recente e mais estável|confiabilidade|sistema|alta|S|
-|RNF6|o sistema deve ter uma disponibilidade de no minimo 99,5% do tempo|confiabilidade|sistema|alta|C|
+|RNF6|o sistema deve ter uma disponibilidade de no minimo 99,5% do tempo em base anual, equivalente a no máximo 1 dia e 19 horas de inatividade por ano |confiabilidade|sistema|alta|C|
 |RNF7|o sistema deve ter um tempo de resposta preciso, de no máximo 3 segundos|eficiência|sistema|alta|C|
 |RNF8|o executável em sistemas mobile(APK/IPA) deve ter um espaço de no máximo 300mb|eficiência|sistema|baixa|C|
 |RNF9|o sistema deve garantir estabilidade com no mínimo 8000 usuários simultâneos sem perceptíveis perdas de desempenho|escalabilidade|sistema|média|S|
