@@ -79,11 +79,22 @@ _`1. O que as pessoas fazem?`_  _`2. Quais os artefatos envolvidos?`_  _`3. O qu
 
 _**Cenário: Antes**_
 
-_<Preencher com o cenário idealizado antes da aplicação do seu sistema.>_
+Mariana Silva (18 anos, caloura de Engenharia de Software) está em seu primeiro mês na UTFPR. Ela se sente perdida com a rotina acadêmica, a burocracia e onde encontrar materiais de estudo de qualidade. Ela é tímida e prefere não fazer perguntas em sala de aula ou pessoalmente para não ser julgada.
+
+Mariana faz sua pergunta no grupo do curso no WhatsApp. A conversa do grupo está agitada com memes e assuntos aleatórios. Sua pergunta é rapidamente perdida em meio a dezenas de mensagens. 
+
+Lucas Andrade (Veterano) vê a pergunta, mas está no trabalho e acha repetitivo responder pela décima vez, então ele ignora.
+Mariana fica frustrada, sente-se com a sua dificuldade não resolvida, e desiste de perguntar, recorrendo à pesquisa no Google, que não lhe dá a resposta específica da UTFPR.
 
 _**Cenário: Depois**_
 
-_<Preencher com o cenário idealizado depois da aplicação do seu sistema.>_
+Mariana Silva (18 anos, caloura de Engenharia de Software) está em seu quarto, acessando o aplicativo ColabUTFPR pelo seu smartphone. O sistema, com sua interface simples, oferece um ambiente seguro e categorizado para suas dúvidas, diferente do caos do WhatsApp.
+
+Mariana Silva (Caloura, busca informações e networking) e Lucas Andrade (Veterano, busca construir reputação e fazer networking de forma eficiente).
+
+Mariana busca encontrar um grupo de estudos e dicas confiáveis sobre a disciplina de Cálculo I. Lucas pretende ajudar de forma rápida e estratégica, aumentando sua pontuação de reputação.
+
+Mariana decide usar o ColabUTFPR porque sabe que o conteúdo é organizado por tópicos e filtrado por usuários da UTFPR, garantindo a confiabilidade das dicas. Lucas planeja responder apenas a perguntas que lhe darão visibilidade e que sejam pertinentes ao seu perfil.
 
 ## 2. Documentos gerais no repositório
 
