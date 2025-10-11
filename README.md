@@ -105,7 +105,7 @@ _**2.1. Requisitos Funcionais**_
 |identificador|descrição|prioridade|dependência|MoSCoW
 |--|--|--|--|--|
 |RF1|Cadastro deve permitir ao usuário o login via e-mail institucional e suporte para recuperação de senha|alta|sem dependências|M|
-|RF2|o sistema deve possuir uma verificação de e-mail|alta|RF1|S|
+|RF2|o sistema deve possuir uma verificação de e-mail por confirmação, mandando um e-mail verificando se o e-mail pertece realmente ao usúario, após clicar em um link enviado para o e-mail fornecido, ele é confirmado e a criação de conta no aplicativo é vinculada as informações fornecidas|alta|RF1|S|
 |RF3|o sistema deve permitir que o usuário crie publicações na aba fórum, escolhendo um fórum em especifico|alta|RF1, RF2|S|
 |RF4|o sistema deve permitir a anexação de imagens ou documentos em publicações e comendatários|média|RF3|C|
 |RF5|o sistema deve permitir comentários dos usuários e reações em tópicos e/ou pubicações|alta|RF3|C|
