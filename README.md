@@ -132,7 +132,7 @@ _**2.2. Requisitos Não Funcionais**_
 
 _**2.3. Perguntas**_
 
-_<Arquivo com as perguntas realizadas na entrevista .>_
+[Perguntas - Entrevista ColabUTFPR](https://docs.google.com/document/d/1YW6ly_eckFNQA0txDjnmrfSQ03iJV_cfXsUcahRelWQ/edit?usp=sharing)
 
 _**2.4. Entrevista**_
 
