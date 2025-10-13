@@ -72,11 +72,34 @@ _**Personas:**_
 
 _**Análise da situação atual: antes da introdução de sua solução**_
 
-_`1. O que as pessoas fazem?`_  _`2. Quais os artefatos envolvidos?`_  _`3. O que elas precisam saber?`_
+- O que ela faz?
+  1.  Ela precisa saber qual professor é melhor para uma disciplina e onde conseguir as notas de aula
+  2.  Ela recorre aos grupos informais de WhatsApp da turma e do curso, pois são familiares para ela.
+  3.  Ela pergunta no grupo sobre o professor e os materiais.
+  
+- Quais os artefatos envolvidos?
+  1.  Grupos de WhatsApp lotados e com conversas misturadas.
+  2.  E-mails burocráticos e o sistema SIGAA/Moodle, que ela acha confuso e intimidador.
+
+- O que ela precisa saber?
+  1. Informações confiáveis sobre a dinâmica da faculdade e dicas de veteranos.
 
 _**Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:**_
 
-_`1. O que as pessoas fazem?`_  _`2. Quais os artefatos envolvidos?`_  _`3. O que elas precisam saber?`_
+-  O que ela faz:
+  1.  Ela faz o login no aplicativo ColabUTFPR usando seu e-mail institucional.
+  2.  Ela acessa a aba de Fóruns/Comunidades e seleciona a categoria "Engenharia de Software" e o tópico "Cálculo I".
+  3.  Ela utiliza a função de busca por posts antigos para ver se a pergunta já foi feita. Ela encontra uma discussão mais antiga sobre o professor, que ela reage positivamente.
+  4.  Ela decide criar um novo post com o título "Caloura: Grupo de Estudos de Cálculo I" para encontrar colegas, utilizando a aba de criação de publicações.
+
+-  Os Artefatos Envolvidos:
+  1.  O aplicativo ColabUTFPR (instalado em seu smartphone).
+  2.  Um sistema de ranking e reputação que filtra as informações de usuários experientes.
+  3.  Notificações e um chat de mensagens privadas no aplicativo.
+
+-  O que ela precisa saber:
+  1.  O melhor professor e um grupo de estudo.
+  2.  O sistema precisa ser confiável e seguro contra "trolls".
 
 _**Cenário: Antes**_
 
