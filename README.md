@@ -171,7 +171,9 @@ _**2.3. Perguntas**_
 
 _**2.4. Entrevista**_
 
-_<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>_
+[entrevista gravada com o veterano Enrique](https://drive.google.com/file/d/19wEtH1sPg7lgcyuqkptIEpW_G3awXGO2/view?usp=sharing)
+
+[transcrição da entrevista com o veterano Enrique](https://docs.google.com/document/d/1qm0872MMC3pkQ7XpTg7XXi7DJ7nCtuCmLC6f87nqBzA/edit?usp=sharing)
 
 _**2.5. Histórias do Usuário**_
 
