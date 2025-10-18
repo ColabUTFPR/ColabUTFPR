@@ -182,7 +182,7 @@ _**2.4. Entrevista**_
 
 _**2.5. Histórias do Usuário**_
 
-_<Imagem, arquivo (PDF), link com as Histórias de Usuário.>_
+[Histórias do Usuário - ColabUTFPR](https://docs.google.com/document/d/1RI_uTJ6SIFTCI_aggYLd5Hdxzs6RfJv2MIU06EMlTFs/edit?usp=sharing)
 
 _**2.6. Diagramas de Caso de Uso e Especificações**_
 
