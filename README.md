@@ -194,7 +194,7 @@ _<Imagem, arquivo (PDF), link com Diagrama de Atividades.>_
 
 _**2.8. Protótipos**_
 
-_<Imagem, arquivo (PDF), link com Protótipo.>_
+[Protótipo do app ColabUTFPR com as principais páginas](https://ninjamock.com/s/6946QZx)
 
 ## Referências
 
