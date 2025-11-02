@@ -190,7 +190,7 @@ _<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>_
 
 _**2.7. Diagramas de Atividades**_
 
-.[diagrama de atividades](https://drive.google.com/drive/folders/13D0VHHHfp-yd-2BxTzrt4aLIjs3Xg5Ef?usp=sharing)
+[diagrama de atividades - ColabUTFPR](https://drive.google.com/drive/folders/13D0VHHHfp-yd-2BxTzrt4aLIjs3Xg5Ef?usp=sharing)
 
 _**2.8. Protótipos**_
 
