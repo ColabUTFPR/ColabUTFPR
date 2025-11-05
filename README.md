@@ -186,7 +186,9 @@ _**2.5. Histórias do Usuário**_
 
 _**2.6. Diagramas de Caso de Uso e Especificações**_
 
-_<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>_
+[diagrama de classes - ColabUTFPR](https://drive.google.com/file/d/1JnPlDu-MODYWLNSuXvDT-z4CBFjT-g8E/view?usp=sharing)
+
+[diagrama de caso de uso - ColabUTFPR](https://drive.google.com/file/d/1OIWUEKR5JESXdKRzcA8FROweOb2Hf0l5/view?usp=sharing)
 
 _**2.7. Diagramas de Atividades**_
 
