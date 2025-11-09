@@ -38,9 +38,6 @@ Este documento se destina a toda equipe de desenvolvimento e teste, além de ser
 
 _**1.3. Descrição dos usuários**_
 
-_<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>_
-
-
 _**Personas:**_
 
 # Persona 1 
