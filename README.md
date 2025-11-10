@@ -199,8 +199,8 @@ _**2.8. Protótipos**_
 
 [](https://github.com/ColabUTFPR/ColabUTFPR/blob/main/README.md#refer%C3%AAncias)
 
-[5] BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD). Diário Oficial da União, Brasília, DF, 15 ago. 2018. (Referência direta para o Requisito Não Funcional RNF10, sobre o alinhamento com a LGPD.)
+BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD). Diário Oficial da União, Brasília, DF, 15 ago. 2018. (Referência direta para o Requisito Não Funcional RNF10, sobre o alinhamento com a LGPD.)
 
-[6] OWASP. OWASP Top Ten. Open Web Application Security Project, 2021. Disponível em: https://owasp.org/www-project-top-ten/. Acesso em: 9 nov. 2025. (Referência padrão para segurança web, citada no RNF3 sobre XSS, SQL Injection, etc.)
+OWASP. OWASP Top Ten. Open Web Application Security Project, 2021. Disponível em: https://owasp.org/www-project-top-ten/. Acesso em: 9 nov. 2025. (Referência padrão para segurança web, citada no RNF3 sobre XSS, SQL Injection, etc.)
 
-[7] W3C. Web Content Accessibility Guidelines (WCAG) 2.1. W3C Recommendation, 5 June 2018. Disponível em: https://www.w3.org/TR/WCAG21/. Acesso em: 9 nov. 2025. (Referência oficial para o RNF11, sobre padrões de acessibilidade.)
+W3C. Web Content Accessibility Guidelines (WCAG) 2.1. W3C Recommendation, 5 June 2018. Disponível em: https://www.w3.org/TR/WCAG21/. Acesso em: 9 nov. 2025. (Referência oficial para o RNF11, sobre padrões de acessibilidade.)
