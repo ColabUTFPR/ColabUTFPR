@@ -199,8 +199,6 @@ _**2.8. Protótipos**_
 
 [](https://github.com/ColabUTFPR/ColabUTFPR/blob/main/README.md#refer%C3%AAncias)
 
-_<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>_
-
 [5] BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD). Diário Oficial da União, Brasília, DF, 15 ago. 2018. (Referência direta para o Requisito Não Funcional RNF10, sobre o alinhamento com a LGPD.)
 
 [6] OWASP. OWASP Top Ten. Open Web Application Security Project, 2021. Disponível em: https://owasp.org/www-project-top-ten/. Acesso em: 9 nov. 2025. (Referência padrão para segurança web, citada no RNF3 sobre XSS, SQL Injection, etc.)
